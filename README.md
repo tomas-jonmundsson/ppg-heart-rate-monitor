@@ -12,8 +12,8 @@ A Bluetooth-enabled photoplethysmography (PPG) heart rate monitor with a real-ti
 - C++ firmware for embedded signal handling
 
 ## Repository Contents
-- `firmware/` - Arduino and C++ source files
-- `gui/` - Python GUI scripts
+- `firmware/`: Arduino and C++ source files
+- `gui/`: Python GUI scripts
 
 ## Tools & Technologies
 `Arduino` `C++` `Python` `Bluetooth` `Signal Processing` `GUI Development`
